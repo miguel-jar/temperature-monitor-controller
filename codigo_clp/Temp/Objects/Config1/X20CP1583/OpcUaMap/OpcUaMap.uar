@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<OpcUaConfig Date="20/11/2023 14:10:59" Version="4.1.14.40 SP" FileVersion="2">
+  <DefaultView>
+    <Module>
+      <GlobalVariables Name="Global PV">
+        <Variable Name="ESTADO" />
+        <Variable Name="KP" />
+        <Variable Name="LIGA" />
+        <Variable Name="MAX_TEMP_PERMITIDA" />
+        <Variable Name="SAIDA_PID" />
+        <Variable Name="SETPOINT" />
+        <Variable Name="TD" />
+        <Variable Name="TEMPERATURA" />
+        <Variable Name="TI" />
+      </GlobalVariables>
+    </Module>
+  </DefaultView>
+</OpcUaConfig>

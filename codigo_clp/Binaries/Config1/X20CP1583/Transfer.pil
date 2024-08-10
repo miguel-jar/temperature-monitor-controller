@@ -1,0 +1,24 @@
+Connection "/IF=tcpip /LOPO=11159 /SA=1", "/RT=1000 /AM=* /SDT=5 /DAIP=192.168.0.70 /REPO=11159 /ANSL=1 /PT=11169"
+Diagnose
+DeleteMemory ROM
+Coldstart
+Download: ".\System\X20CP1583G40.BR", "ROM"
+Coldstart
+Download: ".\ashwd.br", "SYSROM"
+Download: ".\asfw.br", "SYSROM"
+Download: ".\arconfig.br", "SYSROM"
+Download: ".\sysconf.br", "SYSROM"
+Warmstart
+Download: ".\Runtime.br", "ROM"
+Download: ".\brsystem.br", "ROM"
+Download: ".\sys_lib.br", "ROM"
+Download: ".\MTTypes.br", "ROM"
+Download: ".\astime.br", "ROM"
+Download: ".\asieccon.br", "ROM"
+Download: ".\LoopConR.br", "ROM"
+Download: ".\standard.br", "ROM"
+Download: ".\MTSystem.br", "ROM"
+Download: ".\MTBasics.br", "ROM"
+Download: ".\iomap.br", "ROM"
+Download: ".\OpcUaMap.br", "ROM"
+Download: ".\ProjetoA11.br", "ROM"

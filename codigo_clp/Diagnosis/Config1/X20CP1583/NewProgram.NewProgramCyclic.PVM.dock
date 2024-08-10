@@ -1,0 +1,11 @@
+WATCH Ver=2.00 PLCName=PLC1 CPUName=CPU TaskName=NewProgram 
+Position X=0 Y=0 Width=0 Height=0 TabWidth Name=150 Type=0 Scope=0 Force=0 Index=7 ASCIIString=0
+                                    name                                     type force                                                            value level type len format place expand specs
+                           NivelFiltrado                                     REAL    0 "                                                               *"    0    8    1   10    1    0         
+                               TempoDist                                      TON    0 "                                                               *"    0   24    1    0    1    1         
+                                      PT                                     TIME    0 "                                                           T#22s"    1   12    1    1    0    0         
+                                      ET                                     TIME    0 "                                                           T#22s"    1   12    1    1    0    0         
+                                  timer1                                      TON    0 "                                                               *"    0   24    1    0    1    1         
+                                      PT                                     TIME    0 "                                                       T#03m_20s"    1   12    1    1    0    0         
+                                      ET                                     TIME    0 "                                                           T#0ms"    1   12    1    1    0    0         
+                             Temperatura                                     REAL    0 "                                                        69.14523"    0    8    1   10    1    0         

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<OpcUaSource Date="20/11/2023 14:10:24" Version="4.1.14.40 SP" FileVersion="1">
+  <DefaultView>
+    <Module>
+      <Variable Name="ESTADO" Enable="True" />
+      <Variable Name="KP" Enable="True" />
+      <Variable Name="LIGA" Enable="True" />
+      <Variable Name="MAX_TEMP_PERMITIDA" Enable="True" />
+      <Variable Name="SAIDA_PID" Enable="True" />
+      <Variable Name="SETPOINT" Enable="True" />
+      <Variable Name="TD" Enable="True" />
+      <Variable Name="TEMPERATURA" Enable="True" />
+      <Variable Name="TI" Enable="True" />
+    </Module>
+  </DefaultView>
+</OpcUaSource>

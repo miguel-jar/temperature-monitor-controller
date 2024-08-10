@@ -1,0 +1,432 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?AutomationStudio Version="4.1.14.40 SP"?>
+<Objects>
+  <Object
+    Path="C:\projects\ProjetoPadrao2022\Logical\Package.pkg"
+    LogicalPath=""
+    Type="Package"
+    LastWriteTime="133458359599419441" />
+  <Object
+    Path="C:\projects\ProjetoPadrao2022\Logical\Global.typ"
+    LogicalPath="Global.typ"
+    Type="File"
+    LastWriteTime="133075858853980839"
+    Private="false" />
+  <Object
+    Path="C:\projects\ProjetoPadrao2022\Logical\Global.var"
+    LogicalPath="Global.var"
+    Type="File"
+    LastWriteTime="133449738525815478"
+    Private="false" />
+  <Object
+    Path="C:\projects\ProjetoPadrao2022\Logical\Libraries\Operator\operator.fun"
+    LogicalPath="Libraries.Operator.operator.fun"
+    Type="File"
+    LastWriteTime="133075858854520563"
+    Private="false" />
+  <Object
+    Path="C:\projects\ProjetoPadrao2022\Logical\Libraries\Operator\operator.typ"
+    LogicalPath="Libraries.Operator.operator.typ"
+    Type="File"
+    LastWriteTime="133075858854560639"
+    Private="false" />
+  <Object
+    Path="C:\projects\ProjetoPadrao2022\Logical\Libraries\Operator\operator.var"
+    LogicalPath="Libraries.Operator.operator.var"
+    Type="File"
+    LastWriteTime="133075858854610516"
+    Private="false" />
+  <Object
+    Path="C:\projects\ProjetoPadrao2022\Logical\Libraries\Operator\Binary.lby"
+    LogicalPath="Libraries.Operator"
+    Type="Library"
+    LastWriteTime="133075858854640502" />
+  <Object
+    Path="C:\projects\ProjetoPadrao2022\Logical\Libraries\Runtime\runtime.fun"
+    LogicalPath="Libraries.Runtime.runtime.fun"
+    Type="File"
+    LastWriteTime="133075858855210718"
+    Private="false" />
+  <Object
+    Path="C:\projects\ProjetoPadrao2022\Logical\Libraries\Runtime\runtime.typ"
+    LogicalPath="Libraries.Runtime.runtime.typ"
+    Type="File"
+    LastWriteTime="133075858855260820"
+    Private="false" />
+  <Object
+    Path="C:\projects\ProjetoPadrao2022\Logical\Libraries\Runtime\runtime.var"
+    LogicalPath="Libraries.Runtime.runtime.var"
+    Type="File"
+    LastWriteTime="133075858855310834"
+    Private="false" />
+  <Object
+    Path="C:\projects\ProjetoPadrao2022\Logical\Libraries\Runtime\Binary.lby"
+    LogicalPath="Libraries.Runtime"
+    Type="Library"
+    LastWriteTime="133075858855340919" />
+  <Object
+    Path="C:\projects\ProjetoPadrao2022\Logical\Libraries\AsTime\astime.fun"
+    LogicalPath="Libraries.AsTime.astime.fun"
+    Type="File"
+    LastWriteTime="133075858855840697"
+    Private="false" />
+  <Object
+    Path="C:\projects\ProjetoPadrao2022\Logical\Libraries\AsTime\astime.typ"
+    LogicalPath="Libraries.AsTime.astime.typ"
+    Type="File"
+    LastWriteTime="133075858855890533"
+    Private="false" />
+  <Object
+    Path="C:\projects\ProjetoPadrao2022\Logical\Libraries\AsTime\astime.var"
+    LogicalPath="Libraries.AsTime.astime.var"
+    Type="File"
+    LastWriteTime="133075858855930522"
+    Private="false" />
+  <Object
+    Path="C:\projects\ProjetoPadrao2022\Logical\Libraries\AsTime\Binary.lby"
+    LogicalPath="Libraries.AsTime"
+    Type="Library"
+    LastWriteTime="133075858855960505" />
+  <Object
+    Path="C:\projects\ProjetoPadrao2022\Logical\Libraries\AsIecCon\AsIecCon.fun"
+    LogicalPath="Libraries.AsIecCon.AsIecCon.fun"
+    Type="File"
+    LastWriteTime="133075858856480442"
+    Private="false" />
+  <Object
+    Path="C:\projects\ProjetoPadrao2022\Logical\Libraries\AsIecCon\AsIecCon.typ"
+    LogicalPath="Libraries.AsIecCon.AsIecCon.typ"
+    Type="File"
+    LastWriteTime="133075858856520553"
+    Private="false" />
+  <Object
+    Path="C:\projects\ProjetoPadrao2022\Logical\Libraries\AsIecCon\AsIecCon.var"
+    LogicalPath="Libraries.AsIecCon.AsIecCon.var"
+    Type="File"
+    LastWriteTime="133075858856560401"
+    Private="false" />
+  <Object
+    Path="C:\projects\ProjetoPadrao2022\Logical\Libraries\AsIecCon\Binary.lby"
+    LogicalPath="Libraries.AsIecCon"
+    Type="Library"
+    LastWriteTime="133075858856590573" />
+  <Object
+    Path="C:\projects\ProjetoPadrao2022\Logical\Libraries\LoopConR\LoopConR.var"
+    LogicalPath="Libraries.LoopConR.LoopConR.var"
+    Type="File"
+    LastWriteTime="133087994143538115"
+    Private="false" />
+  <Object
+    Path="C:\projects\ProjetoPadrao2022\Logical\Libraries\LoopConR\LoopConR.typ"
+    LogicalPath="Libraries.LoopConR.LoopConR.typ"
+    Type="File"
+    LastWriteTime="133087994143598144"
+    Private="false" />
+  <Object
+    Path="C:\projects\ProjetoPadrao2022\Logical\Libraries\LoopConR\LoopConR.fun"
+    LogicalPath="Libraries.LoopConR.LoopConR.fun"
+    Type="File"
+    LastWriteTime="133087994143648022"
+    Private="false" />
+  <Object
+    Path="C:\projects\ProjetoPadrao2022\Logical\Libraries\LoopConR\Binary.lby"
+    LogicalPath="Libraries.LoopConR"
+    Type="Library"
+    LastWriteTime="133087994143677955" />
+  <Object
+    Path="C:\projects\ProjetoPadrao2022\Logical\Libraries\sys_lib\sys_lib.fun"
+    LogicalPath="Libraries.sys_lib.sys_lib.fun"
+    Type="File"
+    LastWriteTime="133087994144415955"
+    Private="false" />
+  <Object
+    Path="C:\projects\ProjetoPadrao2022\Logical\Libraries\sys_lib\sys_lib.typ"
+    LogicalPath="Libraries.sys_lib.sys_lib.typ"
+    Type="File"
+    LastWriteTime="133087994144475803"
+    Private="false" />
+  <Object
+    Path="C:\projects\ProjetoPadrao2022\Logical\Libraries\sys_lib\sys_lib.var"
+    LogicalPath="Libraries.sys_lib.sys_lib.var"
+    Type="File"
+    LastWriteTime="133087994144525685"
+    Private="false" />
+  <Object
+    Path="C:\projects\ProjetoPadrao2022\Logical\Libraries\sys_lib\Binary.lby"
+    LogicalPath="Libraries.sys_lib"
+    Type="Library"
+    LastWriteTime="133087994144555799" />
+  <Object
+    Path="C:\projects\ProjetoPadrao2022\Logical\Libraries\brsystem\brsystem.fun"
+    LogicalPath="Libraries.brsystem.brsystem.fun"
+    Type="File"
+    LastWriteTime="133087994145104265"
+    Private="false" />
+  <Object
+    Path="C:\projects\ProjetoPadrao2022\Logical\Libraries\brsystem\brsystem.typ"
+    LogicalPath="Libraries.brsystem.brsystem.typ"
+    Type="File"
+    LastWriteTime="133087994145144166"
+    Private="false" />
+  <Object
+    Path="C:\projects\ProjetoPadrao2022\Logical\Libraries\brsystem\brsystem.var"
+    LogicalPath="Libraries.brsystem.brsystem.var"
+    Type="File"
+    LastWriteTime="133087994145233949"
+    Private="false" />
+  <Object
+    Path="C:\projects\ProjetoPadrao2022\Logical\Libraries\brsystem\Binary.lby"
+    LogicalPath="Libraries.brsystem"
+    Type="Library"
+    LastWriteTime="133087994145273852" />
+  <Object
+    Path="C:\projects\ProjetoPadrao2022\Logical\Libraries\standard\standard.fun"
+    LogicalPath="Libraries.standard.standard.fun"
+    Type="File"
+    LastWriteTime="133087994252610873"
+    Private="false" />
+  <Object
+    Path="C:\projects\ProjetoPadrao2022\Logical\Libraries\standard\standard.typ"
+    LogicalPath="Libraries.standard.standard.typ"
+    Type="File"
+    LastWriteTime="133087994252660612"
+    Private="false" />
+  <Object
+    Path="C:\projects\ProjetoPadrao2022\Logical\Libraries\standard\standard.var"
+    LogicalPath="Libraries.standard.standard.var"
+    Type="File"
+    LastWriteTime="133087994252700526"
+    Private="false" />
+  <Object
+    Path="C:\projects\ProjetoPadrao2022\Logical\Libraries\standard\Binary.lby"
+    LogicalPath="Libraries.standard"
+    Type="Library"
+    LastWriteTime="133087994252730442" />
+  <Object
+    Path="C:\projects\ProjetoPadrao2022\Logical\Libraries\MTSystem\MTSystem.fun"
+    LogicalPath="Libraries.MTSystem.MTSystem.fun"
+    Type="File"
+    LastWriteTime="133277796682954380"
+    Private="false" />
+  <Object
+    Path="C:\projects\ProjetoPadrao2022\Logical\Libraries\MTSystem\MTSystem.typ"
+    LogicalPath="Libraries.MTSystem.MTSystem.typ"
+    Type="File"
+    LastWriteTime="133277796683004318"
+    Private="false" />
+  <Object
+    Path="C:\projects\ProjetoPadrao2022\Logical\Libraries\MTSystem\MTSystem.var"
+    LogicalPath="Libraries.MTSystem.MTSystem.var"
+    Type="File"
+    LastWriteTime="133277796683044440"
+    Private="false" />
+  <Object
+    Path="C:\projects\ProjetoPadrao2022\Logical\Libraries\MTSystem\Binary.lby"
+    LogicalPath="Libraries.MTSystem"
+    Type="Library"
+    LastWriteTime="133277796683074280" />
+  <Object
+    Path="C:\projects\ProjetoPadrao2022\Logical\Libraries\MTTypes\MTTypes.fun"
+    LogicalPath="Libraries.MTTypes.MTTypes.fun"
+    Type="File"
+    LastWriteTime="133277796683803897"
+    Private="false" />
+  <Object
+    Path="C:\projects\ProjetoPadrao2022\Logical\Libraries\MTTypes\MTTypes.typ"
+    LogicalPath="Libraries.MTTypes.MTTypes.typ"
+    Type="File"
+    LastWriteTime="133277796683853862"
+    Private="false" />
+  <Object
+    Path="C:\projects\ProjetoPadrao2022\Logical\Libraries\MTTypes\MTTypes.var"
+    LogicalPath="Libraries.MTTypes.MTTypes.var"
+    Type="File"
+    LastWriteTime="133277796683903838"
+    Private="false" />
+  <Object
+    Path="C:\projects\ProjetoPadrao2022\Logical\Libraries\MTTypes\Binary.lby"
+    LogicalPath="Libraries.MTTypes"
+    Type="Library"
+    LastWriteTime="133277796683933903" />
+  <Object
+    Path="C:\projects\ProjetoPadrao2022\Logical\Libraries\MTBasics\MTBasics.fun"
+    LogicalPath="Libraries.MTBasics.MTBasics.fun"
+    Type="File"
+    LastWriteTime="133277843951672803"
+    Private="false" />
+  <Object
+    Path="C:\projects\ProjetoPadrao2022\Logical\Libraries\MTBasics\MTBasics.typ"
+    LogicalPath="Libraries.MTBasics.MTBasics.typ"
+    Type="File"
+    LastWriteTime="133277843951862704"
+    Private="false" />
+  <Object
+    Path="C:\projects\ProjetoPadrao2022\Logical\Libraries\MTBasics\MTBasics.var"
+    LogicalPath="Libraries.MTBasics.MTBasics.var"
+    Type="File"
+    LastWriteTime="133277843951942649"
+    Private="false" />
+  <Object
+    Path="C:\projects\ProjetoPadrao2022\Logical\Libraries\MTBasics\Binary.lby"
+    LogicalPath="Libraries.MTBasics"
+    Type="Library"
+    LastWriteTime="133277843952002763" />
+  <Object
+    Path="C:\projects\ProjetoPadrao2022\Logical\Libraries\Package.pkg"
+    LogicalPath="Libraries"
+    Type="Package"
+    LastWriteTime="133277843952292587" />
+  <Object
+    Path="C:\projects\ProjetoPadrao2022\Logical\ProjetoA110\ProjetoA110Init.st"
+    LogicalPath="ProjetoA110.ProjetoA110Init.st"
+    Type="File"
+    LastWriteTime="133449739995935555"
+    Private="false" />
+  <Object
+    Path="C:\projects\ProjetoPadrao2022\Logical\ProjetoA110\ProjetoA110.typ"
+    LogicalPath="ProjetoA110.ProjetoA110.typ"
+    Type="File"
+    LastWriteTime="133447796364937054"
+    Private="true" />
+  <Object
+    Path="C:\projects\ProjetoPadrao2022\Logical\ProjetoA110\ProjetoA110.var"
+    LogicalPath="ProjetoA110.ProjetoA110.var"
+    Type="File"
+    LastWriteTime="133453252770139463"
+    Private="true" />
+  <Object
+    Path="C:\projects\ProjetoPadrao2022\Logical\ProjetoA110\ProjetoA110Cyclic.st"
+    LogicalPath="ProjetoA110.ProjetoA110Cyclic.st"
+    Type="File"
+    LastWriteTime="133459289373737146"
+    Private="false" />
+  <Object
+    Path="C:\projects\ProjetoPadrao2022\Logical\ProjetoA110\IEC.prg"
+    LogicalPath="ProjetoA110"
+    Type="Program"
+    LastWriteTime="133458357867746934" />
+  <Object
+    Path="C:\projects\ProjetoPadrao2022\Physical\Config1\Config.pkg"
+    LogicalPath="Config1"
+    Type="Configuration"
+    LastWriteTime="133075862475161002" />
+  <Object
+    Path="C:\projects\ProjetoPadrao2022\Physical\Config1\Hardware.hw"
+    LogicalPath="Config1.Hardware.hw"
+    Type="File"
+    LastWriteTime="133443546884551762"
+    Private="false" />
+  <Object
+    Path="C:\projects\ProjetoPadrao2022\Physical\Config1\Hardware.hwl"
+    LogicalPath="Config1.Hardware.hwl"
+    Type="File"
+    LastWriteTime="133075883031371090"
+    Private="false" />
+  <Object
+    Path="C:\projects\ProjetoPadrao2022\Physical\Config1\X20CP1583\Cpu.sw"
+    LogicalPath="Config1.X20CP1583.Cpu.sw"
+    Type="File"
+    LastWriteTime="133458359599818113"
+    Private="false" />
+  <Object
+    Path="C:\projects\ProjetoPadrao2022\Physical\Config1\X20CP1583\Cpu.per"
+    LogicalPath="Config1.X20CP1583.Cpu.per"
+    Type="File"
+    LastWriteTime="133075858850962754"
+    Private="false" />
+  <Object
+    Path="C:\projects\ProjetoPadrao2022\Physical\Config1\X20CP1583\IoMap.iom"
+    LogicalPath="Config1.X20CP1583.IoMap.iom"
+    Type="File"
+    LastWriteTime="133459290310842820"
+    Private="false" />
+  <Object
+    Path="C:\projects\ProjetoPadrao2022\Physical\Config1\X20CP1583\PvMap.vvm"
+    LogicalPath="Config1.X20CP1583.PvMap.vvm"
+    Type="File"
+    LastWriteTime="133075858852511658"
+    Private="false" />
+  <Object
+    Path="C:\projects\ProjetoPadrao2022\Physical\Config1\X20CP1583\OpcUaMap.uad"
+    LogicalPath="Config1.X20CP1583.OpcUaMap.uad"
+    Type="File"
+    LastWriteTime="133449738246341546"
+    Private="false" />
+  <Object
+    Path="C:\projects\ProjetoPadrao2022\Physical\Config1\X20CP1583\Cpu.pkg"
+    LogicalPath="Config1.X20CP1583"
+    Type="Cpu"
+    LastWriteTime="133443549199176205" />
+  <Object
+    Path="C:\projects\ProjetoPadrao2022\Physical\Config1\Hardware.jpg"
+    LogicalPath="Config1.Hardware.jpg"
+    Type="File"
+    LastWriteTime="133075883031490853"
+    Private="false" />
+  <Object
+    Path="C:\projects\ProjetoPadrao2022\Logical\Libraries\AsIecCon\SG4\AsIecCon.h"
+    LogicalPath="AsIecCon.h"
+    Type="File"
+    LastWriteTime="131885244240000000"
+    Private="false" />
+  <Object
+    Path="C:\projects\ProjetoPadrao2022\Logical\Libraries\AsTime\SG4\AsTime.h"
+    LogicalPath="AsTime.h"
+    Type="File"
+    LastWriteTime="131885244300000000"
+    Private="false" />
+  <Object
+    Path="C:\projects\ProjetoPadrao2022\Logical\Libraries\brsystem\SG4\brsystem.h"
+    LogicalPath="brsystem.h"
+    Type="File"
+    LastWriteTime="131885244320000000"
+    Private="false" />
+  <Object
+    Path="C:\projects\ProjetoPadrao2022\Logical\Libraries\LoopConR\SG4\LoopConR.h"
+    LogicalPath="LoopConR.h"
+    Type="File"
+    LastWriteTime="131348187920000000"
+    Private="false" />
+  <Object
+    Path="C:\projects\ProjetoPadrao2022\Logical\Libraries\MTBasics\SG4\MTBasics.h"
+    LogicalPath="MTBasics.h"
+    Type="File"
+    LastWriteTime="131552918980000000"
+    Private="false" />
+  <Object
+    Path="C:\projects\ProjetoPadrao2022\Logical\Libraries\MTSystem\SG4\MTSystem.h"
+    LogicalPath="MTSystem.h"
+    Type="File"
+    LastWriteTime="131326805240000000"
+    Private="false" />
+  <Object
+    Path="C:\projects\ProjetoPadrao2022\Logical\Libraries\MTTypes\SG4\MTTypes.h"
+    LogicalPath="MTTypes.h"
+    Type="File"
+    LastWriteTime="131321452940000000"
+    Private="false" />
+  <Object
+    Path="C:\projects\ProjetoPadrao2022\Logical\Libraries\Operator\SG4\Operator.h"
+    LogicalPath="Operator.h"
+    Type="File"
+    LastWriteTime="131885244340000000"
+    Private="false" />
+  <Object
+    Path="C:\projects\ProjetoPadrao2022\Logical\Libraries\Runtime\SG4\Runtime.h"
+    LogicalPath="Runtime.h"
+    Type="File"
+    LastWriteTime="131885244340000000"
+    Private="false" />
+  <Object
+    Path="C:\projects\ProjetoPadrao2022\Logical\Libraries\standard\SG4\standard.h"
+    LogicalPath="standard.h"
+    Type="File"
+    LastWriteTime="131885244360000000"
+    Private="false" />
+  <Object
+    Path="C:\projects\ProjetoPadrao2022\Logical\Libraries\sys_lib\SG4\sys_lib.h"
+    LogicalPath="sys_lib.h"
+    Type="File"
+    LastWriteTime="131885244360000000"
+    Private="false" />
+</Objects>

@@ -1,0 +1,3 @@
+ProjetoA11	"$(AS_CPU_PATH)/ProjetoA11/a.out" -o "$(AS_CPU_PATH)/ProjetoA11/ProjetoA11.ox" -T SG4 -r Cyclic4   -G V4.1.2 
+temp_prova	"$(AS_CPU_PATH)/temp_prova/a.out" -o "$(AS_CPU_PATH)/temp_prova/temp_prova.ox" -T SG4 -r Cyclic4   -G V4.1.2 
+ProgramaGu	"$(AS_CPU_PATH)/ProgramaGu/a.out" -o "$(AS_CPU_PATH)/ProgramaGu/ProgramaGu.ox" -T SG4 -r Cyclic4   -G V4.1.2 

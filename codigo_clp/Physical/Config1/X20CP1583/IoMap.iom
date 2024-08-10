@@ -1,0 +1,14 @@
+(********************************************************************
+ * COPYRIGHT --  
+ ********************************************************************
+ * File: IoMap.iom
+ * Author: supervisorio
+ * Created: September 13, 2022
+ ********************************************************************
+ * IO mapping file
+ ********************************************************************)
+VAR_CONFIG
+	::ProjetoA11:X AT %IW."X20CM8281".AnalogInput01;
+	::ProjetoA11:SAIDA AT %QX."X20DM9324".DigitalOutput01;
+	::ProjetoA11:BOTAO_VERMELHO AT %IX."X20DM9324".DigitalInput02;
+END_VAR

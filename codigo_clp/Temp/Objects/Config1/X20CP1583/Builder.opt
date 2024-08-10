@@ -1,0 +1,6 @@
+sysconf	 -c Config1 -sysconf -S "X20CP1583" -o "$(AS_CPU_PATH)/sysconf.br" -T SG4  -B G4.09 -P "$(AS_PROJECT_PATH)" -s "Config1"
+arconfig	"$(AS_PROJECT_CPU_PATH)/IoMap.iom"  -arconfig -c Config1 -v V1.00.0 -S "X20CP1583" -o "$(AS_CPU_PATH)/arconfig.br" "$(AS_CPU_PATH)/ChannelConfiguration.xml" "$(AS_CPU_PATH)/HardwareConfiguration.xml" "$(AS_CPU_PATH)/ReActionTechnologyConfiguration.xml" -T SG4  -B G4.09 -P "$(AS_PROJECT_PATH)" -s "Config1"
+iomap	 -m "$(AS_CPU_PATH)/ConfigInfo.cfi" -g "$(AS_TEMP_PATH)/Objects/Declarations.lst" -x "$(AS_CPU_PATH)/ChannelConfiguration.xml" -v V1.00.0 -f "$(AS_CPU_PATH)" -iomap -o "$(AS_CPU_PATH)/iomap.br" -T SG4  -B G4.09 -P "$(AS_PROJECT_PATH)" -s "Config1.X20CP1583"
+AsHwd	 "$(AS_PROJECT_CONFIG_PATH)/Hardware.hw" -v V1.00.0 -S "X20CP1583" -o "$(AS_CPU_PATH)/ashwd.br" -T SG4 -B G4.09 -P "$(AS_PROJECT_PATH)" -c "$(AS_CONFIGURATION)" -zip -s X20CP1583 -hwd
+AsFw	 "$(AS_PROJECT_CONFIG_PATH)/Hardware.hw" -v V1.00.0 -S "X20CP1583" -o "$(AS_CPU_PATH)/asfw.br" -T SG4 -B G4.09 -P "$(AS_PROJECT_PATH)" -c "$(AS_CONFIGURATION)" -zip -s X20CP1583 -firmware
+OpcUaMap	 "$(AS_PROJECT_CPU_PATH)/OpcUaMap.uad" -o "$(AS_CPU_PATH)/OpcUaMap.br" -B G4.09 -c Config1 -P "$(AS_PROJECT_PATH)"

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?AutomationStudio Version="4.1.14.40 SP"?>
+<ProjectOptions
+  IecNamingConventions="true"
+  IecKeywordsAsStructureMembers="false"
+  IecExtendedConstants="true"
+  LogicalDirectory="C:\projects\ProjetoPadrao2022\Logical\"
+  TempDirectory="C:\projects\ProjetoPadrao2022\Temp\"
+  AutomationStudioVersion="4.1.14.40 SP"
+  AutomationStudioEdition="Standard"
+  CrossReference="false"
+  ActiveConfiguration="Config1"
+  CreateAnsiCDeclarations="false" />

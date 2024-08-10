@@ -1,0 +1,10 @@
+$(AS_PROJECT_PATH)/Logical/Libraries/LoopConR/LoopConR.fun
+$(AS_PROJECT_PATH)/Logical/Libraries/brsystem/brsystem.fun
+$(AS_PROJECT_PATH)/Logical/Libraries/LoopConR/LoopConR.typ
+$(AS_PROJECT_PATH)/Logical/Libraries/MTBasics/MTBasics.fun
+$(AS_PROJECT_PATH)/Logical/Libraries/MTBasics/MTBasics.typ
+$(AS_PROJECT_PATH)/Logical/Libraries/MTSystem/MTSystem.fun
+$(AS_PROJECT_PATH)/Logical/Libraries/MTTypes/MTTypes.typ
+$(AS_PROJECT_PATH)/Logical/Libraries/MTSystem/MTSystem.typ
+$(AS_PROJECT_PATH)/Logical/Libraries/standard/standard.fun
+$(AS_PROJECT_PATH)/Logical/NewProgram/NewProgram.var

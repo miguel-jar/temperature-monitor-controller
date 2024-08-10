@@ -1,0 +1,20 @@
+(********************************************************************
+ * COPYRIGHT --  
+ ********************************************************************
+ * Program: ProjetoA110
+ * File: ProjetoA110.var
+ * Author: supervisorio
+ * Created: November 18, 2023
+ ********************************************************************
+ * Local variables of program ProjetoA110
+ ********************************************************************)
+VAR
+	BOTAO_VERDE : BOOL;
+	BOTAO_VERMELHO : BOOL;
+	BLOCO_PID : LCRSlimPID;
+	X : INT;
+	BLOCO_PWM : LCRPWM;
+	SAIDA : BOOL;
+	PARAMETROS : lcrslimpid_par_typ;
+	HABILITA_TRACE : BOOL;
+END_VAR

@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?AutomationStudio Version="4.1.14.40 SP"?>
+<LibraryInfos>
+  <Library
+    Name="AsIecCon"
+    IsDeployed="false"
+    IsStatic="false"
+    UseAsStatic="false"
+    Version="" />
+  <Library
+    Name="AsTime"
+    IsDeployed="false"
+    IsStatic="false"
+    UseAsStatic="false"
+    Version="" />
+  <Library
+    Name="brsystem"
+    IsDeployed="true"
+    IsStatic="false"
+    UseAsStatic="false"
+    Version="" />
+  <Library
+    Name="LoopConR"
+    IsDeployed="true"
+    IsStatic="false"
+    UseAsStatic="false"
+    Version="4.10.0" />
+  <Library
+    Name="MTBasics"
+    IsDeployed="true"
+    IsStatic="false"
+    UseAsStatic="false"
+    Version="2.30.2" />
+  <Library
+    Name="MTSystem"
+    IsDeployed="true"
+    IsStatic="false"
+    UseAsStatic="false"
+    Version="1.00.1" />
+  <Library
+    Name="MTTypes"
+    IsDeployed="true"
+    IsStatic="false"
+    UseAsStatic="false"
+    Version="1.03.4" />
+  <Library
+    Name="Operator"
+    IsDeployed="false"
+    IsStatic="false"
+    UseAsStatic="false"
+    Version="" />
+  <Library
+    Name="Runtime"
+    IsDeployed="true"
+    IsStatic="false"
+    UseAsStatic="false"
+    Version="" />
+  <Library
+    Name="standard"
+    IsDeployed="true"
+    IsStatic="false"
+    UseAsStatic="false"
+    Version="" />
+  <Library
+    Name="sys_lib"
+    IsDeployed="true"
+    IsStatic="false"
+    UseAsStatic="false"
+    Version="" />
+</LibraryInfos>
